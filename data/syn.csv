@@ -1,0 +1,309 @@
+query,answer
+What are some trending styles?,trending_fashion_advice
+I need a dress for a wedding.,Product_Scraping
+Show me dresses that fit this description.,Product_Scraping
+what currently ongoing popular dresses for my?,trending_fashion_advice
+hi,other
+up for a party?,other
+what does suit me more t-shirt or full shirt?,generic_fashion_advice
+Can you show me the latest fashion trends?,trending_fashion_advice
+I am looking for casual wear.,Product_Scraping
+What are the new arrivals in men’s fashion?,trending_fashion_advice
+Suggest a good outfit for an office party.,generic_fashion_advice
+How about some evening gowns?,Product_Scraping
+What should I wear to a beach party?,generic_fashion_advice
+What's new in fashion?,trending_fashion_advice
+Show me products similar to this.,Product_Scraping
+Need some tips on summer fashion.,generic_fashion_advice
+Are there any discounts on dresses?,Product_Scraping
+What’s the best outfit for a first date?,generic_fashion_advice
+What is trending in women's fashion?,trending_fashion_advice
+Can you help me find a tuxedo?,Product_Scraping
+Tell me about the latest trends in accessories.,trending_fashion_advice
+Do you have some fashion advice for winter?,generic_fashion_advice
+I want to buy a leather jacket.,Product_Scraping
+What kind of dress should I wear for a cocktail party?,generic_fashion_advice
+What is popular in street fashion?,trending_fashion_advice
+Looking for fashion inspiration.,generic_fashion_advice
+Any new collections this season?,trending_fashion_advice
+Can you find me a pair of jeans?,Product_Scraping
+Hi there!,other
+Do you have suggestions for workout clothes?,generic_fashion_advice
+I'm looking for formal wear.,Product_Scraping
+What’s in style this year?,trending_fashion_advice
+Hey!,other
+Any recommendations for party dresses?,Product_Scraping
+What's hot in fashion right now?,trending_fashion_advice
+Can you show me the best deals on clothes?,Product_Scraping
+Any fashion advice for fall?,generic_fashion_advice
+What’s the best color to wear for a night out?,generic_fashion_advice
+Do you have any new fashion tips?,trending_fashion_advice
+What are the top fashion trends?,trending_fashion_advice
+Need help choosing between two outfits.,generic_fashion_advice
+What should I wear for a job interview?,generic_fashion_advice
+What’s the latest in fashion?,trending_fashion_advice
+I want to find a dress for prom.,Product_Scraping
+Hi how are you?,other
+Show me the newest fashion collections.,trending_fashion_advice
+Can you help me pick an outfit?,generic_fashion_advice
+I need some fashion advice.,generic_fashion_advice
+Can you recommend a brand for sneakers?,generic_fashion_advice
+What’s trendy now?,trending_fashion_advice
+I am looking for a handbag.,Product_Scraping
+Do you have any suggestions for wedding attire?,generic_fashion_advice
+What's trending in casual wear?,trending_fashion_advice
+Any tips for choosing accessories?,generic_fashion_advice
+Can you show me winter coats?,Product_Scraping
+I need a new wardrobe.,Product_Scraping
+Can you find me a stylish blazer?,Product_Scraping
+What's the latest trend in sunglasses?,trending_fashion_advice
+Show me trendy skirts.,Product_Scraping
+What shoes are in fashion now?,trending_fashion_advice
+I need a casual outfit for a weekend.,generic_fashion_advice
+What are the latest trends in men’s accessories?,trending_fashion_advice
+Can you recommend some good winter boots?,Product_Scraping
+What should I wear for a dinner date?,generic_fashion_advice
+Show me some formal dresses.,Product_Scraping
+What are the top fashion brands this season?,trending_fashion_advice
+I need a summer outfit.,generic_fashion_advice
+What’s new in women’s fashion?,trending_fashion_advice
+Show me trendy tops.,Product_Scraping
+What are the best brands for jeans?,generic_fashion_advice
+Do you have any advice for picking out a suit?,generic_fashion_advice
+What’s hot in women’s accessories?,trending_fashion_advice
+I need a dress for a cocktail party.,Product_Scraping
+What's the best outfit for a beach vacation?,generic_fashion_advice
+What are the trending fashion colors?,trending_fashion_advice
+Can you help me find a leather bag?,Product_Scraping
+What’s the best attire for a business meeting?,generic_fashion_advice
+What are the new arrivals in kids’ fashion?,trending_fashion_advice
+I’m looking for a trendy jacket.,Product_Scraping
+What should I wear to a wedding?,generic_fashion_advice
+Show me the latest fashion in sportswear.,trending_fashion_advice
+I need some new shoes.,Product_Scraping
+What’s trending in streetwear?,trending_fashion_advice
+What are the top summer fashion trends?,trending_fashion_advice
+Can you suggest a good evening dress?,generic_fashion_advice
+Show me products for a summer look.,Product_Scraping
+What are the best workout outfits?,generic_fashion_advice
+I’m looking for a trendy handbag.,Product_Scraping
+What’s the latest in fashion for men?,trending_fashion_advice
+Can you recommend a winter outfit?,generic_fashion_advice
+Show me the best winter jackets.,Product_Scraping
+What are the new trends in fashion accessories?,trending_fashion_advice
+I need help with my wardrobe.,generic_fashion_advice
+What’s new in the fashion world?,trending_fashion_advice
+Can you show me some trendy jeans?,Product_Scraping
+What’s the best style for a casual day out?,generic_fashion_advice
+I need a fashionable outfit for a party.,Product_Scraping
+What’s trending in women’s footwear?,trending_fashion_advice
+Can you suggest a casual dress?,generic_fashion_advice
+What’s new in men’s fashion accessories?,trending_fashion_advice
+I’m looking for a stylish coat.,Product_Scraping
+What are the top fashion tips for spring?,generic_fashion_advice
+Can you recommend a formal dress?,generic_fashion_advice
+Show me the latest trends in watches.,trending_fashion_advice
+I need a new pair of sneakers.,Product_Scraping
+What’s the best outfit for a night out?,generic_fashion_advice
+What are the latest trends in casual wear?,trending_fashion_advice
+Can you find me a trendy scarf?,Product_Scraping
+What’s the best outfit for a hiking trip?,generic_fashion_advice
+I need a new dress for a garden party.,Product_Scraping
+Show me the newest trends in swimwear.,trending_fashion_advice
+What’s popular in vintage fashion?,trending_fashion_advice
+I’m looking for trendy athletic wear.,Product_Scraping
+What’s the latest in eco-friendly fashion?,trending_fashion_advice
+Can you recommend a good raincoat?,generic_fashion_advice
+I need some fashion ideas for a festival.,generic_fashion_advice
+What are the new trends in workwear?,trending_fashion_advice
+Show me fashionable maternity clothes.,Product_Scraping
+What’s the best casual look for autumn?,generic_fashion_advice
+I’m looking for a stylish hat.,Product_Scraping
+What’s trending in men's outerwear?,trending_fashion_advice
+Can you help me find a fashionable skirt?,Product_Scraping
+What’s the best look for a summer evening?,generic_fashion_advice
+I need a formal outfit for a gala.,Product_Scraping
+What are the top trends in jewelry?,trending_fashion_advice
+Show me the best options for formal shoes.,Product_Scraping
+What should I wear to a winter wedding?,generic_fashion_advice
+What’s new in luxury fashion?,trending_fashion_advice
+Can you recommend some casual shirts?,generic_fashion_advice
+I’m looking for the latest in sports fashion.,trending_fashion_advice
+What are the best brands for athletic wear?,generic_fashion_advice
+I need a new outfit for a photoshoot.,Product_Scraping
+Show me trendy winter accessories.,trending_fashion_advice
+What’s popular in men’s casual wear?,trending_fashion_advice
+Can you help me find a stylish backpack?,Product_Scraping
+What’s the best look for a casual Friday?,generic_fashion_advice
+I need some new workout gear.,Product_Scraping
+What are the latest trends in denim?,trending_fashion_advice
+Show me fashionable business attire.,Product_Scraping
+What’s the best outfit for a romantic dinner?,generic_fashion_advice
+Can you recommend a trendy jumpsuit?,Product_Scraping
+What’s new in high-end fashion?,trending_fashion_advice
+I need some ideas for a party outfit.,generic_fashion_advice
+What’s trending in street style?,trending_fashion_advice
+Can you find me some stylish sunglasses?,Product_Scraping
+What are the new trends in evening wear?,trending_fashion_advice
+Show me the best options for casual shoes.,Product_Scraping
+What’s the latest in fashion for teens?,trending_fashion_advice
+Can you recommend a good trench coat?,generic_fashion_advice
+I need some trendy office wear.,Product_Scraping
+What are the top trends in men’s footwear?,trending_fashion_advice
+Show me fashionable accessories for women.,Product_Scraping
+What’s the best look for a weekend getaway?,generic_fashion_advice
+I’m looking for a trendy blazer.,Product_Scraping
+What’s popular in contemporary fashion?,trending_fashion_advice
+Can you help me choose an outfit for a date?,generic_fashion_advice
+Hello!,other
+How's it going?,other
+Good morning!,other
+Good evening!,other
+What's up?,other
+How are you today?,other
+Hey there!,other
+What's new?,other
+How have you been?,other
+How's your day?,other
+Hi!,other
+What’s happening?,other
+Hello there!,other
+Good afternoon!,other
+How’s life?,other
+Nice to meet you!,other
+How’s everything?,other
+How’s your week going?,other
+What’s good?,other
+How’s it hanging?,other
+How do you do?,other
+Hi nice to see you!,other
+What’s the word?,other
+Hey how are things?,other
+How’s your morning?,other
+How’s your evening?,other
+Hi what’s up?,other
+What’s going on?,other
+Howdy!,other
+How are things?,other
+What’s up with you?,other
+Hello how’s it going?,other
+How’s your day been?,other
+Hey how have you been?,other
+What’s new with you?,other
+How are you feeling?,other
+How’s your night?,other
+How’s your weekend?,other
+Hi how are you doing?,other
+What’s shaking?,other
+Hey how’s everything?,other
+Hello how are things?,other
+How’s it going today?,other
+Hi there what’s new?,other
+Hey what’s happening?,other
+Good day!,other
+What are some trending styles?,trending_fashion_advice
+I need a dress for a wedding.,Product_Scraping
+Show me dresses that fit this description.,Product_Scraping
+What currently ongoing popular dresses for my?,trending_fashion_advice
+Hi,other
+Up for a party?,other
+What does suit me more t-shirt or full shirt?,generic_fashion_advice
+Can you show me the latest fashion trends?,trending_fashion_advice
+I am looking for casual wear.,Product_Scraping
+What are the new arrivals in men’s fashion?,trending_fashion_advice
+Suggest a good outfit for an office party.,generic_fashion_advice
+How about some evening gowns?,Product_Scraping
+What should I wear to a beach party?,generic_fashion_advice
+What's new in fashion?,trending_fashion_advice
+Show me products similar to this.,Product_Scraping
+Need some tips on summer fashion.,generic_fashion_advice
+Are there any discounts on dresses?,Product_Scraping
+What’s the best outfit for a first date?,generic_fashion_advice
+What is trending in women's fashion?,trending_fashion_advice
+Can you help me find a tuxedo?,Product_Scraping
+Tell me about the latest trends in accessories.,trending_fashion_advice
+Do you have some fashion advice for winter?,generic_fashion_advice
+I want to buy a leather jacket.,Product_Scraping
+What kind of dress should I wear for a cocktail party?,generic_fashion_advice
+What is popular in street fashion?,trending_fashion_advice
+Looking for fashion inspiration.,generic_fashion_advice
+Any new collections this season?,trending_fashion_advice
+Can you find me a pair of jeans?,Product_Scraping
+Hi there!,other
+Do you have suggestions for workout clothes?,generic_fashion_advice
+I'm looking for formal wear.,Product_Scraping
+What’s in style this year?,trending_fashion_advice
+Hey!,other
+Any recommendations for party dresses?,Product_Scraping
+What's hot in fashion right now?,trending_fashion_advice
+Can you show me the best deals on clothes?,Product_Scraping
+Any fashion advice for fall?,generic_fashion_advice
+What’s the best color to wear for a night out?,generic_fashion_advice
+Do you have any new fashion tips?,trending_fashion_advice
+What are the top fashion trends?,trending_fashion_advice
+Need help choosing between two outfits.,generic_fashion_advice
+What should I wear for a job interview?,generic_fashion_advice
+What’s the latest in fashion?,trending_fashion_advice
+I want to find a dress for prom.,Product_Scraping
+Hi how are you?,other
+Show me the newest fashion collections.,trending_fashion_advice
+Can you help me pick an outfit?,generic_fashion_advice
+I need some fashion advice.,generic_fashion_advice
+Can you recommend a brand for sneakers?,generic_fashion_advice
+What’s trendy now?,trending_fashion_advice
+I am looking for a handbag.,Product_Scraping
+Do you have any suggestions for wedding attire?,generic_fashion_advice
+What's trending in casual wear?,trending_fashion_advice
+Any tips for choosing accessories?,generic_fashion_advice
+Can you show me winter coats?,Product_Scraping
+I need a new wardrobe.,Product_Scraping
+Can you find me a stylish blazer?,Product_Scraping
+What's the latest trend in sunglasses?,trending_fashion_advice
+Show me trendy skirts.,Product_Scraping
+What shoes are in fashion now?,trending_fashion_advice
+I need a casual outfit for a weekend.,generic_fashion_advice
+What are the latest trends in men’s accessories?,trending_fashion_advice
+Can you recommend some good winter boots?,Product_Scraping
+What should I wear for a dinner date?,generic_fashion_advice
+Show me some formal dresses.,Product_Scraping
+What are the top fashion brands this season?,trending_fashion_advice
+I need a summer outfit.,generic_fashion_advice
+What’s new in women’s fashion?,trending_fashion_advice
+Show me trendy tops.,Product_Scraping
+What are the best brands for jeans?,generic_fashion_advice
+Do you have any advice for picking out a suit?,generic_fashion_advice
+What’s hot in women’s accessories?,trending_fashion_advice
+I need a dress for a cocktail party.,Product_Scraping
+What's the best outfit for a beach vacation?,generic_fashion_advice
+What are the trending fashion colors?,trending_fashion_advice
+Can you help me find a leather bag?,Product_Scraping
+What’s the best attire for a business meeting?,generic_fashion_advice
+What are the new arrivals in kids’ fashion?,trending_fashion_advice
+I’m looking for a trendy jacket.,Product_Scraping
+What should I wear to a wedding?,generic_fashion_advice
+Show me the latest fashion in sportswear.,trending_fashion_advice
+I need some new shoes.,Product_Scraping
+What’s trending in streetwear?,trending_fashion_advice
+What are the top summer fashion trends?,trending_fashion_advice
+Can you suggest a good evening dress?,generic_fashion_advice
+Show me products for a summer look.,Product_Scraping
+What are the best workout outfits?,generic_fashion_advice
+I’m looking for a trendy handbag.,Product_Scraping
+What’s the latest in fashion for men?,trending_fashion_advice
+Can you recommend a winter outfit?,generic_fashion_advice
+Show me the best winter jackets.,Product_Scraping
+What are the new trends in fashion accessories?,trending_fashion_advice
+I need help with my wardrobe.,generic_fashion_advice
+What’s new in the fashion world?,trending_fashion_advice
+Can you show me some trendy jeans?,Product_Scraping
+What’s the best style for a casual day out?,generic_fashion_advice
+I need a fashionable outfit for a party.,Product_Scraping
+What’s trending in women’s footwear?,trending_fashion_advice
+Can you suggest a casual dress?,generic_fashion_advice
+What’s new in men’s fashion accessories?,trending_fashion_advice
+I’m looking for a stylish coat.,Product_Scraping
+What are the top fashion tips for spring?,generic_fashion_advice
+Can you recommend a formal dress?,generic_fashion_advice
+Show me the latest trends in watches.,trending_fashion_advice
+I need a new pair of sneakers.,Product_Scraping
+What’s the best outfit for a night out?,generic_fashion_advice
